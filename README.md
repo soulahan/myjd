@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/2245430357/f621d024-4da9-4c77-b87f-db0b87e15b46/e31fbed7-33b8-422a-b903-09bf9bea9272/_apis/work/boardbadge/81cc787f-cdc3-471e-81af-596814fce241)](https://dev.azure.com/2245430357/f621d024-4da9-4c77-b87f-db0b87e15b46/_boards/board/t/e31fbed7-33b8-422a-b903-09bf9bea9272/Microsoft.RequirementCategory)
 
 ## 特别声明及操作步骤: 
 本脚本取下列大佬 @NobyDa @lxk0301 @i-chenzhe @wuzhi03
